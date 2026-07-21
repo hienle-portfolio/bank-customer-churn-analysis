@@ -2,12 +2,11 @@
 
 ## Business Problem
 
-A bank wants to understand why customers leave and identify high-risk customer segments to improve retention strategies.
+ABC Bank is facing a high level of customer attrition, with 48% of customers having churned. Losing nearly half of its customer base may lead to reduced revenue and increased customer acquisition costs. The objective of this project is to analyze customer characteristics, identify the key drivers associated with churn, and build a predictive model to help the bank proactively identify at-risk customers and support data-driven retention strategies.
 
 ## Objective
 
-Analyze customer behavior and identify factors associated with customer churn.
-
+Use data analysis and predictive modeling to understand customer churn, identify high-risk customer segments, and provide business recommendations that help ABC Bank improve customer retention and reduce customer attrition.
 ## Tools
 
 - Python (Pandas)
