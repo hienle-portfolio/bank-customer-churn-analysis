@@ -22,10 +22,11 @@ Use data analysis and predictive modeling to understand customer churn, identify
 4. Generated business insights and recommendations
 
 ## Key Business Questions
-
-- Which customer segments have the highest churn rate?
-- Does product usage affect customer retention?
-- Are inactive customers more likely to leave?
+Which customer segment has the highest churn rate?
+Does income level influence customer churn?
+Does account balance affect churn?
+Are inactive customers more likely to churn?
+Does the number of products impact churn?
 
 ## Expected Insights
 
