@@ -13,11 +13,13 @@ Overall churn rate: 20.37% (2,037 out of 10,000 customers
 
 ## Project Workflow
 
-1. Data Cleaning & Preparation — Python (pandas) Handled missing values, fixed data types, and engineered grouped features (age groups, balance groups, salary groups, credit score groups).
+## Project Workflow
 
-2. Data Exploration — SQL Aggregated churn rates across customer attributes to answer specific business questions and validate patterns found in Python.
-
-3. Visualization — Tableau Built an interactive dashboard to communicate findings to non-technical stakeholders.
+| Stage | Tool | Description |
+|------|------|-------------|
+| Data Cleaning & Preparation | Python (pandas) | Cleaned the dataset, handled missing values, corrected data types, and engineered grouped features (age, balance, salary, and credit score groups). |
+| Data Exploration | SQL | Queried and aggregated customer data to calculate churn rates, identify patterns, and answer key business questions. |
+| Visualization | Tableau | Built an interactive dashboard to present customer churn insights and support business decision-making. |
 
 https://public.tableau.com/app/profile/hien.le2384/viz/BankCustomerChurn_17858666067980/Dashboard1
    
