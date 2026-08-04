@@ -12,16 +12,17 @@ Overall churn rate: 20.37% (2,037 out of 10,000 customers)
 
 | Stage | Tool | Description |
 |------|------|-------------|
-| Data Cleaning & Preparation | Python (pandas) | Cleaned the dataset, handled missing values, corrected data types, and engineered grouped features (age, balance, salary, and credit score groups). |
-| Data Exploration | SQL | Queried and aggregated customer data to calculate churn rates, identify patterns, and answer key business questions. |
+| Data Cleaning & Preparation | Python (pandas) | Cleaned the dataset, handled missing values, corrected data types, and engineered grouped features (age, balance, salary, and credit score groups) |
+| Data Exploration | SQL | Queried and aggregated customer data to calculate churn rates, identify patterns, and answer key business questions |
+| Data Visualization | Tableau | Built an interactive dashboard to visualize churn trends and present actionable business insights |
 
 ## Repository Structure
 
 | File | Purpose |
 |------|---------|
-| `01_python_clean_data.ipynb` | Cleaned and prepared the dataset using Python (pandas), including handling missing values, correcting data types, and creating grouped features (`age_group`, `balance_group`, `salary_group`, and `credit_score_group`). |
-| `02_sql_business_questions.sql` | SQL queries used to answer eight business questions and analyze customer churn patterns. |
-| `03_customer_churn.twbx` | Tableau workbook containing the interactive dashboard and visualizations. |
+| `01_python_clean_data.ipynb` | Cleaned and prepared the dataset using Python (pandas), including handling missing values, correcting data types, and creating grouped features (`age_group`, `balance_group`, `salary_group`, and `credit_score_group`) |
+| `02_sql_business_questions.sql` | SQL queries used to answer eight business questions and analyze customer churn patterns |
+| `03_customer_churn.twbx` | Tableau workbook containing the interactive dashboard and visualizations |
 
 ## Business Questions Answered (SQL)
 
