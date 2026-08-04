@@ -18,6 +18,8 @@ Overall churn rate: 20.37% (2,037 out of 10,000 customers
 2. Data Exploration — SQL Aggregated churn rates across customer attributes to answer specific business questions and validate patterns found in Python.
 
 3. Visualization — Tableau Built an interactive dashboard to communicate findings to non-technical stakeholders.
+
+https://public.tableau.com/app/profile/hien.le2384/viz/BankCustomerChurn_17858666067980/Dashboard1
    
 ## Key Business Questions
 Which customer segment has the highest churn rate?
