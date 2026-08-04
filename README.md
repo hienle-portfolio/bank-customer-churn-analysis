@@ -50,9 +50,8 @@ https://public.tableau.com/app/profile/hien.le2384/viz/BankCustomerChurn_1785866
 <img width="2400" height="1600" alt="Dashboard 1" src="https://github.com/user-attachments/assets/46175cb2-79df-4c7a-8bd3-8188e471c214" />
 The dashboard breaks churn down by:
 
+
 Country
-
-
 Age group
 
 Account balance
