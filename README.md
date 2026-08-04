@@ -6,7 +6,7 @@ An end-to-end data analytics project examining customer churn behavior for ABC B
 
 Customer churn — when a client closes their account or stops using a bank's services — directly affects revenue and long-term growth. This project analyzes a dataset of 10,000 ABC Bank customers to identify which customer segments are most likely to churn and why, with the goal of giving the business actionable retention strategies.
 
-Overall churn rate: 20.37% (2,037 out of 10,000 customers
+Overall churn rate: 20.37% (2,037 out of 10,000 customers)
 
 ## Project Workflow
 
