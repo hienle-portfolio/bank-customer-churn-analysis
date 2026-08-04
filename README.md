@@ -13,11 +13,12 @@ Overall churn rate: 20.37% (2,037 out of 10,000 customers
 
 ## Project Workflow
 
-1. Cleaned and transformed raw customer data using Python
-2. Performed exploratory analysis using SQL
-3. Built interactive Tableau dashboard
-4. Generated business insights and recommendations
+1. Data Cleaning & Preparation — Python (pandas) Handled missing values, fixed data types, and engineered grouped features (age groups, balance groups, salary groups, credit score groups).
 
+2. Data Exploration — SQL Aggregated churn rates across customer attributes to answer specific business questions and validate patterns found in Python.
+
+3. Visualization — Tableau Built an interactive dashboard to communicate findings to non-technical stakeholders.
+   
 ## Key Business Questions
 Which customer segment has the highest churn rate?
 Does income level influence customer churn?
