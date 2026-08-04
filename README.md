@@ -14,7 +14,6 @@ Overall churn rate: 20.37% (2,037 out of 10,000 customers)
 |------|------|-------------|
 | Data Cleaning & Preparation | Python (pandas) | Cleaned the dataset, handled missing values, corrected data types, and engineered grouped features (age, balance, salary, and credit score groups). |
 | Data Exploration | SQL | Queried and aggregated customer data to calculate churn rates, identify patterns, and answer key business questions. |
-| Visualization | Tableau | Built an interactive dashboard to present customer churn insights and support business decision-making. |
 
 ## Repository Structure
 
