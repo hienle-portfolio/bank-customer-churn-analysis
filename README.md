@@ -79,8 +79,7 @@ Credit score
 
 ## Limitations
 
-- Findings are correlational, not causal — the drivers above indicate association with churn, not proven cause.
-  
+- Findings are correlational, not causal — the drivers above indicate association with churn, not proven cause.  
 - Chart values are read from the visualization; exact percentages should be pulled from the underlying SQL/Python output for the final report.
 
 
