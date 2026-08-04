@@ -44,6 +44,8 @@ Question 8 goes a step further than the others — segmenting on two variables a
 
 ## Dashboard
 
+🔗 View the live interactive dashboard on Tableau Public
+https://public.tableau.com/app/profile/hien.le2384/viz/BankCustomerChurn_17858666067980/Dashboard1
 
 <img width="2400" height="1600" alt="Dashboard 1" src="https://github.com/user-attachments/assets/46175cb2-79df-4c7a-8bd3-8188e471c214" />
 
