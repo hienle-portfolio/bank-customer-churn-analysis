@@ -51,11 +51,17 @@ https://public.tableau.com/app/profile/hien.le2384/viz/BankCustomerChurn_1785866
 The dashboard breaks churn down by:
 
 Country
+
 Age group
+
 Account balance
+
 Estimated salary
+
 Active membership status
+
 Number of banking products
+
 Credit score
 
 ## Key Findings
