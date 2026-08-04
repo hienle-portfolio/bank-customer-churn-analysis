@@ -43,6 +43,24 @@ Which customer segment has the highest churn rate based on salary group and cred
 Question 8 goes a step further than the others — segmenting on two variables at once (with a HAVING COUNT(*) >= 50 filter to exclude tiny, unreliable groups) — which is a stronger analytical move than single-variable breakdowns and worth highlighting to reviewers.
 
 ## Dashboard
+<img width="2400" height="1600" alt="Dashboard 1" src="https://github.com/user-attachments/assets/46175cb2-79df-4c7a-8bd3-8188e471c214" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
