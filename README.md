@@ -4,15 +4,12 @@
 
 ABC Bank is facing a high level of customer attrition, with 48% of customers having churned. Losing nearly half of its customer base may lead to reduced revenue and increased customer acquisition costs. The objective of this project is to analyze customer characteristics, identify the key drivers associated with churn, and build a predictive model to help the bank proactively identify at-risk customers and support data-driven retention strategies.
 
-## Objective
+## Project Overview
 
-Use data analysis and predictive modeling to understand customer churn, identify high-risk customer segments, and provide business recommendations that help ABC Bank improve customer retention and reduce customer attrition.
-## Tools
+Customer churn — when a client closes their account or stops using a bank's services — directly affects revenue and long-term growth. This project analyzes a dataset of 10,000 ABC Bank customers to identify which customer segments are most likely to churn and why, with the goal of giving the business actionable retention strategies.
 
-- Python (Pandas)
-- SQL
-- Tableau
-- Excel
+Overall churn rate: 20.37% (2,037 out of 10,000 customers
+
 
 ## Project Workflow
 
