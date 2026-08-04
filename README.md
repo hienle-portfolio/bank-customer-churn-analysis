@@ -22,7 +22,7 @@ Overall churn rate: 20.37% (2,037 out of 10,000 customers)
 |------|---------|
 | `01_python_clean_data.ipynb` | Cleaned and prepared the dataset using Python (pandas), including handling missing values, correcting data types, and creating grouped features (`age_group`, `balance_group`, `salary_group`, and `credit_score_group`). |
 | `02_sql_business_questions.sql` | SQL queries used to answer eight business questions and analyze customer churn patterns. |
-| `03_bank_customer_churn.twbx` | Tableau workbook containing the interactive dashboard and visualizations. |
+| `03_customer_churn.twbx` | Tableau workbook containing the interactive dashboard and visualizations. |
 | Tableau Public Dashboard | Live interactive dashboard available on Tableau Public. |
 
 ## Business Questions Answered (SQL)
