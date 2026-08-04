@@ -48,15 +48,39 @@ Question 8 goes a step further than the others — segmenting on two variables a
 https://public.tableau.com/app/profile/hien.le2384/viz/BankCustomerChurn_17858666067980/Dashboard1
 
 <img width="2400" height="1600" alt="Dashboard 1" src="https://github.com/user-attachments/assets/46175cb2-79df-4c7a-8bd3-8188e471c214" />
+The dashboard breaks churn down by:
+
+Country
+Age group
+Account balance
+Estimated salary
+Active membership status
+Number of banking products
+Credit score
+
+## Key Findings
+1. Number of banking products is the strongest churn driver. Customers with 3 or 4 products churn at dramatically higher rates (roughly 70–100%) than customers with 1–2 products (under ~20%). This is counterintuitive — normally more product ownership signals loyalty — and suggests either product bundling issues, cross-sell practices that don't fit customer needs, or a data quality/definition issue worth double-checking.
+2. Middle-aged and older customers churn more. Churn rises sharply from the 18–30 group up through the 51–60 group (the highest-risk segment), then drops somewhat for 60+. Younger customers (18–40) are comparatively stable.
+3. Germany has a notably higher churn rate than France or Spain. This points to a country-specific issue — competitive pressure, service quality, or pricing — worth investigating with local teams.
+4. Inactive members churn nearly twice as often as active members. Active engagement (logins, transactions, usage) is a meaningful protective factor.
+5. Balance and salary show smaller, more moderate effects. Medium-balance customers churn slightly more than others; churn is fairly flat across salary bands, suggesting income alone isn't a strong predictor.
+6. Credit score has only a mild relationship with churn, with "Poor" and "Very Good" scores showing marginally higher churn than "Good" — not a strong standalone signal.
+
+## Business Recommendations (for ABC Bank)
+- Investigate the 3–4 product segment immediately. Given the size of the effect, this deserves a root-cause review — is it a bundling/cross-sell practice, a specific product combination causing dissatisfaction, or a data artifact?
+- Prioritize retention campaigns for the 41–60 age range, since this is both a high-churn and typically high-value segment.
+- Run a Germany-specific retention or satisfaction study to understand what's different there versus France/Spain.
+- Invest in engagement programs (app usage incentives, proactive check-ins) to convert inactive members into active ones, given the strong link between activity and retention.
+
+## Limitations
+
+- Findings are correlational, not causal — the drivers above indicate association with churn, not proven cause.
+- Chart values are read from the visualization; exact percentages should be pulled from the underlying SQL/Python output for the final report.
 
 
 
 
 
-
-**View the Interactive Dashboard**
-
-https://public.tableau.com/views/YourDashboard
 
 
 
