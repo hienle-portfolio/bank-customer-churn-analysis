@@ -29,12 +29,19 @@ Overall churn rate: 20.37% (2,037 out of 10,000 customers)
 Framing the SQL work as business questions — not just queries — is what makes this read as analyst work rather than a script. Each question below was answered with a GROUP BY + churn rate calculation (SUM(churn) / COUNT(*)):
 
 Which country has the highest customer churn rate?
+
 Which age group has the highest customer churn rate?
+
 Does active membership affect customer churn?
+
 Does account balance affect customer churn?
+
 Does the number of banking products affect customer churn rate?
+
 Does estimated salary affect customer churn rate?
+
 Does credit score affect customer churn rate?
+
 Which customer segment has the highest churn rate based on salary group and credit score group (a two-variable segmentation)?
 
 Question 8 goes a step further than the others — segmenting on two variables at once (with a HAVING COUNT(*) >= 50 filter to exclude tiny, unreliable groups) — which is a stronger analytical move than single-variable breakdowns and worth highlighting to reviewers.
