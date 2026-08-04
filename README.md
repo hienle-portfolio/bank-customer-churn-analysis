@@ -1,8 +1,6 @@
-# Bank Customer Churn Analysis
+# ABC Bank Customer Churn Analysis
 
-## Business Problem
-
-ABC Bank is facing a high level of customer attrition, with 48% of customers having churned. Losing nearly half of its customer base may lead to reduced revenue and increased customer acquisition costs. The objective of this project is to analyze customer characteristics, identify the key drivers associated with churn, and build a predictive model to help the bank proactively identify at-risk customers and support data-driven retention strategies.
+An end-to-end data analytics project examining customer churn behavior for ABC Bank, covering data cleaning (Python), data exploration (SQL), and interactive visualization (Tableau).
 
 ## Project Overview
 
