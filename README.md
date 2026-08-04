@@ -89,6 +89,7 @@ Credit score
 - Chart values are read from the visualization; exact percentages should be pulled from the underlying SQL/Python output for the final report.
 
 ## Next Steps
+
 - Build a predictive model (logistic regression or gradient boosting) to estimate churn probability per customer and identify top predictive features.
 - Segment the "high product count = high churn" finding further — is it specific product types, or number alone?
 - Add a country × age group interaction view to check if the Germany effect is concentrated in a particular age band.
