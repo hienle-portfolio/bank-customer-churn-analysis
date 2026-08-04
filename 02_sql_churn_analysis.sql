@@ -117,7 +117,7 @@ SELECT
     ROUND(AVG(churn) * 100.0, 2) AS churn_rate
 FROM bank_churn bc 
 GROUP BY salary_group, credit_score_group
-HAVING COUNT(*) >= 50  -- Loại bỏ các nhóm mẫu quá nhỏ
+HAVING COUNT(*) >= 50  
 ORDER BY churn_rate DESC;
 
 
